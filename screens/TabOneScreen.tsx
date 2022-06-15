@@ -6,7 +6,6 @@ import { RootTabScreenProps } from "../types";
 import bns from "../boodnodeIds.json";
 import { Divider, ListItem } from "@rneui/themed";
 import { Button } from "react-native";
-import { ENR } from "@chainsafe/discv5";
 import { useEffect, useState } from "react";
 import PingButton from "../components/PingButton";
 
